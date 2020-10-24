@@ -1,0 +1,17 @@
+# Site settings
+title: Kuldeep Sengar
+description: Home Page of sengarkuldeep
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Kuldeep Sengar
+user_description: |
+  I'm a software engineer who can help turn business strategies into a viable solution. I have led software development teams using Agile and Continuous Delivery approaches that includes <mark>TDD</mark>, <mark>continuous integration</mark> and <mark>infrastructure automation</mark>
+user_title: Software Engineer
+email: sengar.kuldeep@gmail.com
+twitter_username: kuldeep_sengar
+github_username: kuldeepsengar
+linkedin_username: sengarkuldeep
+
+exclude: ["package.json", "src", "node_modules"]
